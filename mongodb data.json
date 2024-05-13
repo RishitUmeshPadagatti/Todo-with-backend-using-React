@@ -1,0 +1,212 @@
+[{
+  "_id": {
+    "$oid": "663e598e9ceac52395a3a039"
+  },
+  "username": "rishit",
+  "password": "password",
+  "todos": [
+    {
+      "title": "backend",
+      "description": "zod parsing in backend while adding new todos",
+      "isCompleted": false,
+      "uuid": "0636d493-e39c-41a0-a9b1-96d36af6f911",
+      "_id": {
+        "$oid": "6642492d6f6e39b993684553"
+      }
+    },
+    {
+      "title": "final test",
+      "description": "sorry I’m moving on from this project",
+      "isCompleted": false,
+      "uuid": "da38fbec-3ca1-4c8b-970f-e470180269b2",
+      "_id": {
+        "$oid": "664248b96f6e39b993684549"
+      }
+    },
+    {
+      "title": "title from rishit user",
+      "description": "This is a description",
+      "isCompleted": false,
+      "uuid": "0989129f-ab1b-4d4c-8f84-3057cf70da6a",
+      "_id": {
+        "$oid": "663e7c660115edd1edcef469"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e59c09ceac52395a3a03b"
+  },
+  "username": "chandler",
+  "password": "i love monica",
+  "todos": [
+    {
+      "title": "This is my first todo",
+      "description": "Description Hai Bhai",
+      "isCompleted": false,
+      "uuid": "f6f60c95-b9dd-4225-86ad-c6e183a3a1b4",
+      "_id": {
+        "$oid": "663fd910cb1a769e9b367dba"
+      }
+    },
+    {
+      "title": "todo title",
+      "description": "todo description",
+      "isCompleted": false,
+      "uuid": "33a82b9e-6a98-48fe-8170-556258db6939",
+      "_id": {
+        "$oid": "663fd88bcb1a769e9b367db7"
+      }
+    },
+    {
+      "title": "wait first watch infinity war",
+      "description": "second best movie of all time",
+      "isCompleted": true,
+      "uuid": "c450199e-3618-4801-9a77-d74cbddf3896",
+      "_id": {
+        "$oid": "663e71aa5c453926fb703836"
+      }
+    },
+    {
+      "title": "watch endgame",
+      "description": "Best movie of all time",
+      "isCompleted": false,
+      "uuid": "58b500b9-6600-4a88-8247-7b37eb6ed0e6",
+      "_id": {
+        "$oid": "663e71985c453926fb703834"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5a3cb8798ebad0c68284"
+  },
+  "username": "joeey",
+  "password": "i dont share food",
+  "todos": [
+    {
+      "title": "title",
+      "description": "description",
+      "isCompleted": false,
+      "uuid": "f0862656-af3c-418e-80fa-9e3fdc2f3fb0",
+      "_id": {
+        "$oid": "66423887e8aa290b15cbd8c7"
+      }
+    },
+    {
+      "title": "best friend",
+      "description": "i think i have to leave rachel for ross",
+      "isCompleted": false,
+      "uuid": "7171ae45-5c0f-42c8-b587-15c85f92e444",
+      "_id": {
+        "$oid": "66423768e8aa290b15cbd8b9"
+      }
+    },
+    {
+      "title": "ross",
+      "description": "but ross loves her too",
+      "isCompleted": false,
+      "uuid": "2b8291e3-d0cb-4442-8bff-1affb7381d0c",
+      "_id": {
+        "$oid": "6642371be8aa290b15cbd8b1"
+      }
+    },
+    {
+      "title": "rachel",
+      "description": "i have a crush on rachel",
+      "isCompleted": false,
+      "uuid": "1ec2c127-507a-4d97-a438-d5bf86ce97ad",
+      "_id": {
+        "$oid": "664236ece8aa290b15cbd8a9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663f4c855bcec45198aa455d"
+  },
+  "username": "newuser",
+  "password": "newpassword",
+  "todos": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663fa53b12bd0027dbe06893"
+  },
+  "username": "username",
+  "password": "password",
+  "todos": [
+    {
+      "title": "hello",
+      "description": "hello world",
+      "isCompleted": false,
+      "uuid": "4b2361ab-eb17-4001-bf9c-0a6df9127d3b",
+      "_id": {
+        "$oid": "6642255ae8aa290b15cbd200"
+      }
+    },
+    {
+      "title": "this is a title",
+      "description": "this is a description",
+      "isCompleted": false,
+      "uuid": "29c082b0-de4a-458f-b4ed-5a8d02477ae4",
+      "_id": {
+        "$oid": "663fd9aecb1a769e9b367dbe"
+      }
+    },
+    {
+      "title": "wqew",
+      "description": "qweqwqew",
+      "isCompleted": false,
+      "uuid": "f651a1ab-ad47-443f-b8c5-31153a9b30ab",
+      "_id": {
+        "$oid": "663fd93dcb1a769e9b367dbc"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664248de6f6e39b993684550"
+  },
+  "username": "project_todo",
+  "password": "Project_todo_12",
+  "todos": [
+    {
+      "title": "bug",
+      "description": "after adding a new todo, it wont be updated automatically for the user, itll be visible after page refresh",
+      "isCompleted": false,
+      "uuid": "1659f3b9-96dd-4521-afa8-f824518e8e6d",
+      "_id": {
+        "$oid": "664249bb6f6e39b993684564"
+      }
+    },
+    {
+      "title": "mark as completed ",
+      "description": "adding mark as completed feature in frontend and update in db",
+      "isCompleted": false,
+      "uuid": "36a93dee-22c2-433a-9e4a-576fb8cfb70a",
+      "_id": {
+        "$oid": "6642497f6f6e39b99368455f"
+      }
+    },
+    {
+      "title": "zod",
+      "description": "zop parsing in backend while adding new todo",
+      "isCompleted": false,
+      "uuid": "2e28654c-ecb6-4aac-a362-d14540ef894d",
+      "_id": {
+        "$oid": "664249466f6e39b99368455b"
+      }
+    }
+  ],
+  "__v": 0
+}]

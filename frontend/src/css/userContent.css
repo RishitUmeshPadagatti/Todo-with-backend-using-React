@@ -1,0 +1,82 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    /* border: 1px solid black; */
+}
+
+#navbar {
+    /* border: 1px solid red; */
+
+    height: 70px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    padding-right: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+
+}
+
+#navbar div {
+    margin: 0px 10px;
+    cursor: pointer;
+}
+
+#navbar div:nth-child(2):hover {
+    transform: scale(1.1);
+}
+
+#addingNewTodos {
+    /* border: 1px solid red; */
+    
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 20px 35px;
+}
+
+#addingNewTodos input {
+    width: 100%;
+    margin: 7px 0px;
+    padding: 10px 0px;
+    box-sizing: border-box;
+    padding-left: 10px;
+
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 8px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.8px);
+    -webkit-backdrop-filter: blur(6.8px);
+    border: 1px solid rgba(255, 255, 255, 0.49);
+}
+
+#addingNewTodos button {
+    width: 100%;
+    margin: 20px 0px;
+    padding: 10px 0px;
+    cursor: pointer;
+    border: 0px;
+
+    /* background: rgba(255, 255, 255, 0.25); */
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.8px);
+    -webkit-backdrop-filter: blur(6.8px);
+    /* border: 1px solid rgba(255, 255, 255, 0.49); */
+}
+
+#addingNewTodos button:hover{
+    transform: scale(1.005);
+}
+
+#allTodos{
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 20px 35px;
+}
