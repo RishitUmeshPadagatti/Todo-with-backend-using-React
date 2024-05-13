@@ -42,21 +42,26 @@ The frontend is built using React.js. It communicates with the backend API to pr
 ## Installation
 
 1. Clone the repository:
-
-  git clone https://github.com/RishitUmeshPadagatti/Todo-with-backend-using-React
+```
+git clone https://github.com/RishitUmeshPadagatti/Todo-with-backend-using-React
+```
 
 2. Install dependencies for both backend and frontend:
 
-  cd todo-app/backend
-  npm install
+```
+cd todo-app/backend
+npm install
 
-  cd ../frontend
-  npm install
+cd ../frontend
+npm install
+```
 
 3. Configure backend:
 
-  Replace the placeholder values in 'config.js' with your actual configuration.
+Replace the placeholder values in 'config.js' with your actual configuration.
 
 4. Run the application:
 
-  npm run dev
+```
+npm run dev
+```
